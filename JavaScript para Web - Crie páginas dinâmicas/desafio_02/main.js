@@ -1,0 +1,1 @@
+const ListaDeTeclas = document.querySelectorAll('.tecla');
